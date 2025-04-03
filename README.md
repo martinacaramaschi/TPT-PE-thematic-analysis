@@ -40,6 +40,12 @@ The final dataset contained:
 ## Notebook 03
 - We improved the correctness of texts by removing all un-needed text before titles
 
+## Notebook 06
+- This notebook was used to clean the articles' text
+
+## Notebook 07
+- This notebook was used to tokenize data and create bigrams for the LDA analysis
+
 ## Authors
 
 - Martina Caramaschi
