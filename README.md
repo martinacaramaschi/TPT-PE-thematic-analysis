@@ -6,7 +6,8 @@ This repository contains the code used in the article titled "Uncovering shifts 
 
 The project aims to uncover shifts in the history of Physics education by applying a systematic NLP-based thematic analysis to articles published in "The Physics Teacher" and "Physics Education" journals from 1966 to 2020.
 
-## Data Collection and Cleaning
+## Notebook 02
+### Data Collection and Cleaning
 
 We downloaded the articles of TPT and PE in two different moments:
 - TPT in mid 2020
@@ -35,6 +36,9 @@ Finally, articles with less than 500 words were removed.
 The final dataset contained:
 - 6445 articles from PE (1966-2024)
 - 7203 articles from TPT (1963-2020)
+
+## Notebook 03
+- We improved the correctness of texts by removing all un-needed text before titles
 
 ## Authors
 
