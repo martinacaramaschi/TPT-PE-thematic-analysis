@@ -26,7 +26,9 @@ In the second dataset cleaning, articles were removed based on specific text in 
 - For TPT: 'Correction', 'BOOKS FOR YOUNG PEOPLE', 'century textbook illustrations'.
 - For PE: “News”, "SIGNING OFF”, “PEOPLE”, “People”, “Reply to comment”, “Erratum”, “book review”.
 
-Next, articles where authors or article text was missing were removed. Finally, articles that were too short were removed, assuming that topics are better addressed and articulated in articles that are longer than half a page. Articles with less than 500 words were removed. 
+Moreover, articles where authors or article text was missing were removed. 
+
+Finally, articles with less than 500 words were removed. 
 
 ## Final Dataset
 
