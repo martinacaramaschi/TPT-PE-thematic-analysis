@@ -38,13 +38,16 @@ The final dataset contained:
 - 7203 articles from TPT (1963-2020)
 
 ## Notebook 03
-- We improved the correctness of texts by removing all un-needed text before titles
+We improved the correctness of texts by removing all un-needed text before titles
 
 ## Notebook 06
-- This notebook was used to clean the articles' text
+This notebook was used to clean the articles' text
 
 ## Notebook 07
-- This notebook was used to tokenize data and create bigrams for the LDA analysis
+This notebook was used to tokenize data and create bigrams for the LDA analysis
+
+## Notebook 17
+By using matrix_paper_weights_comb_k20_928.pkl data, this notebook creates the final images used in the article.
 
 ## Authors
 
