@@ -44,7 +44,7 @@ We improved the correctness of texts by removing all un-needed text before title
 This notebook was used to clean the articles' text
 
 ## Notebook 07
-This notebook was used to tokenize data and create bigrams for the LDA analysis
+This notebook was used to tokenize data and create bigrams for the LDA analysis. The output has not been uploaded as exceeding the maximum size allowed.
 
 ## Notebook 17
 By using matrix_paper_weights_comb_k20_928.pkl data, this notebook creates the final images used in the article.
